@@ -1,0 +1,9 @@
+---
+  elasticsearch:
+    hosts:
+      elastic-centos7:
+        ansible_connection: docker
+      elastic-centos8:
+        ansible_connection: docker
+      elastic-ubuntu:
+        ansible_connection: docker

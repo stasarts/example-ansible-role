@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Stas Arts
+  role_name: kibana
+  namespace: avt0m8
+  description: Install kibana from remote server
+  company: Netology
+
+  license: BSD-3-Clause
+
+  min_ansible_version: 2.1
+
+  galaxy_tags: [kibana]
+
+dependencies: []
